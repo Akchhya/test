@@ -1,1 +1,8 @@
+#include <stdio.h>
+main(){
+add(){
+int a=10,b=20;
+printf("sum is :"+ a+b);
+}
 
+}
