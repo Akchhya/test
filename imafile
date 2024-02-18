@@ -9,4 +9,8 @@ sub{
 int d=40, e=80;
 printf("sub is:"+e-d);
 }
+mult{
+int p=4,i=9;
+m=p*i;
+printf("multi is %d",m);
 }
