@@ -2,11 +2,17 @@
 int main(){
 add(){
 int a=10,b=20;
-printf("sum is :"+ a+b);
+sum=a+b;
+printf("sum is :%d, sum);
 }
 
 sub{
 int d=40, e=80;
-printf("sub is:"+e-d);
+s=d-e;
+printf("sub is: %d",s);
 }
+mult{
+int p=4,i=9;
+m=p*i;
+printf("multi is %d",m);
 }
